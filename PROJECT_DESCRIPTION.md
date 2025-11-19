@@ -97,5 +97,3 @@ anchor test
 ### Additional Notes for Evaluators
 
 This was my first Solana dApp and the learning curve was steep! The biggest challenges were understanding PDA derivation for questions and answers, validating account ownership, and handling error scenarios gracefully. Writing tests for both happy and unhappy paths helped ensure the program’s reliability. Once PDAs clicked, the deterministic addressing made the architecture much cleaner and easier to reason about.
-
-Still have challenges understanding the frontend implementation
