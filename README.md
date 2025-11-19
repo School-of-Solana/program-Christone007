@@ -51,14 +51,14 @@ visit http://localhost:3000 in your browser
 
 
 ## 📸 Screenshots
-Homepage: List of questions with corresponding answers.
-![Homepage](/root/program-Christone007/frontend/stack_underflow/public/img/stack_underflow.png "Homepage")
+Homepage: List of questions with corresponding answers. frontend/stack_underflow/public/img
+![Homepage](/frontend/stack_underflow/public/img/stack_underflow.png "Homepage")
 
 Create Question: Form to submit a new question.
-![Create Question](/root/program-Christone007/frontend/stack_underflow/public/img/create_question.png "Ask a Question")
+![Create Question](frontend/stack_underflow/public/img/create_question.png "Ask a Question")
 
 Answer Modal: Popup to post answers with transaction link confirmation to view transaction on solana explorer
-![Answer Modal](/root/program-Christone007/frontend/stack_underflow/public/img/answer_post.png "Answer a Question")
+![Answer Modal](frontend/stack_underflow/public/img/answer_post.png "Answer a Question")
 
 
 ## Development Notes
