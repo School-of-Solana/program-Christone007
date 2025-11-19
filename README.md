@@ -1,4 +1,4 @@
-# Stack Underflow DApp 🪂
+# Stack Underflow DApp
 
 A decentralized Q&A application built on **Solana** and deployed with **Next.js** on [Vercel](https://stack-underflow-psi.vercel.app/).  
 Think of it as a blockchain‑powered version of Stack Overflow — users can post questions and answers, and all interactions are recorded on Solana Devnet.
@@ -33,6 +33,7 @@ Clone the repo and install dependencies:
 git clone https://github.com/Christone007/stack_underflow.git
 cd stack_underflow/frontend/stack_underflow
 npm install
+```
 
 ---
 
@@ -42,6 +43,7 @@ Start the development server
 
 ```bash
 npm run dev
+```
 
 ---
 
